@@ -1,7 +1,3 @@
-Certainly! Here's a suggested README file for your project:
-
----
-
 # Adaptive Traffic Light System
 
 The Adaptive Traffic Light System is a project designed to optimize traffic flow at intersections by dynamically adjusting traffic signal timings based on real-time traffic conditions. This system utilizes computer vision techniques for vehicle detection and tracking to gather data on traffic volume and flow.
@@ -27,7 +23,7 @@ The project consists of three main components:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/adaptive-traffic-light-system.git
+    git clone https://github.com/Yash-005/adaptive-traffic-light-system.git
     ```
 
 2. Install the required Python dependencies:
