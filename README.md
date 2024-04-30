@@ -30,11 +30,7 @@ The project consists of three main components:
     git clone https://github.com/your-username/adaptive-traffic-light-system.git
     ```
 
-2. Install the required Python dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. install the necessary libraries and YoloV3 weights
 
 ### Usage
 
@@ -63,7 +59,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - This project was inspired by the need to improve traffic management at busy intersections.
-- Special thanks to the developers of OpenCV and YOLOv3 for their excellent libraries and resources.
 
 ---
 
